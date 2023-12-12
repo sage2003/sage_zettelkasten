@@ -84,8 +84,33 @@ $$\Rightarrow \left(\frac{hubble\ size}{patch\ size}\right) = \frac{horizon\ siz
 4. Flatness Problem
 
 
-One option to solve these problems is to complete the other side of the "pizza" slice. That converts the Big Bang to a Big Bounce.
+One option to solve these problems is to complete the other side of the "pizza" slice. That converts the Big Bang to a Big Bounce. (Super Smooth, No primary tensor modes/fluctuations {B-Modes}, No Multiverse)
 
 "Large $\epsilon$ dominates at small a(t)"
+
+## Grand Ambition:
+
+A theory in which the universe is predicted to be generically..
+
+$\bullet$ flat
+$\bullet$ homogenous
+$\bullet$ isotropic
+$\bullet$ monopole-free
+$\bullet$ with "nearly" scale-invariant curvature perturbations
+$\bullet$ nearly gaussian
+
+but that is what every cosmological model aims to do! We aim for something more..
+We aim for a universe..
+
+$\bullet$ without primary tensor modes
+$\bullet$ without cosmic singularity
+$\bullet$ insensitive to initial conditions
+$\bullet$ without multiverse
+$\bullet$ dominantly classical ("conventionally predictive")
+$\bullet$ avoiding entropy problem
+$\bullet$ incorporate DE in essential way
+$\bullet$ "swampland criteria" compatible (quantum gravity)
+$\bullet$ complete (past/present/future)
+
 
 
